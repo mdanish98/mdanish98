@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdanish98
 - 👀 I’m interested in SW Development/Web development using Java
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently doing projects in Java/MySql
 - 💞️ I’m looking to collaborate on any good Software Project
 - 📫 You can reach me at mdanish98@gmail.com
 
